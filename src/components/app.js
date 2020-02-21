@@ -8,8 +8,6 @@ export default class App extends Component {
       <div className='app'>
         <Navigation />
         <h1>HELLO WORLD</h1>
-        <h1>DevCamp React Starter</h1>
-        <h2>React Redux Router</h2>
       </div>
     );
   }
